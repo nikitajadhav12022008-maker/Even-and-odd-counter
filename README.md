@@ -27,20 +27,23 @@ Make sure Python is installed on your system
 Clone the repository or download the file
 Run the program:
 ```bash
-python Even_odd_counter.py
+python even_odd_counter.py
+
 ------
 
 ##📁Project structure:
-Digital clock/
+Even and odd counter/
 |
-|________digital_clock.py
+|________even_odd_counter.py
 |________README.md
+
 ------
 
 ##📌 Sample Output:
 Enter numbers: 1 2 3 4 5 6
 Even: 3
 Odd: 3
+
 -------
 
 ###🔮 Future Improvements:
@@ -48,10 +51,12 @@ Odd: 3
 -Show percentage of even and odd numbers
 -Store results in a file
 -Convert into GUI application
+
 ------
 
 ##🙋‍♀️ Author:
 Nikita Jadhav
+
 -----
 
 ⭐ If you like this project, don’t forget to star the repository!
