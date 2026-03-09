@@ -7,10 +7,12 @@ even = odd = 0
 for n in nums:
     #conditions to check even and odd nums
     if(n % 2 == 0):
-        even += 1
+        even += 1 #updating even
     else:
-        odd += 1
+        odd += 1 #updating odd
+        
 #finally print even and odd
 print("even:",even)
 print("odd:",odd)
+
 
