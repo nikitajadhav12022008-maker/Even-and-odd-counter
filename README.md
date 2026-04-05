@@ -30,6 +30,14 @@ This mini project takes multiple numbers as input and counts how many are even a
 
 ---
 
+# 📁Project structure:
+
+- Even and odd counter/
+- |________even_odd_counter.py
+- |________README.md
+
+---
+
 ###▶️ How to Run:
 Make sure Python is installed on your system
 Clone the repository or download the file
@@ -40,14 +48,7 @@ python even_odd_counter.py
 
 ------
 
-##📁Project structure:
-Even and odd counter/
-|
-|________even_odd_counter.py
-|________README.md
 
-
-------
 
 ##📌 Sample Output:
 Enter numbers: 1 2 3 4 5 6
