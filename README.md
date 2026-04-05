@@ -14,11 +14,11 @@ This mini project takes multiple numbers as input and counts how many are even a
 
 ---
 
-##🛠 Technologies Used:
--Python 3
+## 🛠 Technologies Used:
 
-
-------
+- Python 3
+- 
+---
 
 ##🧠 Concepts Used:
 -Lists
