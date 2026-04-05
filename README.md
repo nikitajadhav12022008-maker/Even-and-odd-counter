@@ -1,9 +1,10 @@
-##🔢 Even–Odd Counter (Python):
+## 🔢 Even–Odd Counter (Python):
+
 A simple command-line Even–Odd Counter built using Python.
 This mini project takes multiple numbers as input and counts how many are even and how many are odd.
 
 
--------
+---
 
 ##🚀 Features:
 -Accepts multiple numbers at once
