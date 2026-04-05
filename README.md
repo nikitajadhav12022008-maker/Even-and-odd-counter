@@ -7,10 +7,10 @@ This mini project takes multiple numbers as input and counts how many are even a
 
 ## 🚀 Features:
 
--Accepts multiple numbers at once
--Counts total even numbers
--Counts total odd numbers
--Displays results instantly
+- Accepts multiple numbers at once
+- Counts total even numbers
+- Counts total odd numbers
+- Displays results instantly
 
 ---
 
