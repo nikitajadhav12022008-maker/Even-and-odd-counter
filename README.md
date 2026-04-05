@@ -21,14 +21,14 @@ This mini project takes multiple numbers as input and counts how many are even a
 ---
 
 ## 🧠 Concepts Used:
--Lists
--Loops
--Conditional statements
--User input
--Modulus operator (%)
 
+- Lists
+- Loops
+- Conditional statements
+- User input
+- Modulus operator (%)
 
--------
+---
 
 ###▶️ How to Run:
 Make sure Python is installed on your system
