@@ -38,6 +38,14 @@ This mini project takes multiple numbers as input and counts how many are even a
 
 ---
 
+## 📌 Sample Output:
+
+Enter numbers: 1 2 3 4 5 6
+Even: 3
+Odd: 3
+
+---
+
 ###▶️ How to Run:
 Make sure Python is installed on your system
 Clone the repository or download the file
@@ -50,13 +58,7 @@ python even_odd_counter.py
 
 
 
-##📌 Sample Output:
-Enter numbers: 1 2 3 4 5 6
-Even: 3
-Odd: 3
 
-
--------
 
 ###🔮 Future Improvements:
 -Handle invalid input (letters or symbols)
