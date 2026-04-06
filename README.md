@@ -40,9 +40,9 @@ This mini project takes multiple numbers as input and counts how many are even a
 
 ## 📌 Sample Output:
 
-Enter numbers: 1 2 3 4 5 6
-Even: 3
-Odd: 3
+- Enter numbers: 1 2 3 4 5 6
+- Even: 3
+- Odd: 3
 
 ---
 
