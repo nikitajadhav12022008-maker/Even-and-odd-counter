@@ -46,28 +46,30 @@ Odd: 3
 
 ---
 
-###▶️ How to Run:
+### 🔮 Future Improvements:
+
+- Handle invalid input (letters or symbols)
+- Show percentage of even and odd numbers
+- Store results in a file
+- Convert into GUI application
+
+---
+
+### ▶️ How to Run:
+
 Make sure Python is installed on your system
 Clone the repository or download the file
 Run the program:
 ```bash
 python even_odd_counter.py
 
-
 ------
 
 
 
 
 
-###🔮 Future Improvements:
--Handle invalid input (letters or symbols)
--Show percentage of even and odd numbers
--Store results in a file
--Convert into GUI application
 
-
-------
 
 ##🙋‍♀️ Author:
 Nikita Jadhav
