@@ -65,11 +65,11 @@ python even_odd_counter.py
 
 ---
 
-##🙋‍♀️ Author:
+## 🙋‍♀️ Author:
+
 Nikita Jadhav
 
-
------
+---
 
 ⭐ If you like this project, don’t forget to star the repository!
 
