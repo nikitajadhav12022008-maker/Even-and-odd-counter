@@ -1,4 +1,4 @@
-#python based Even-odd-counter:
+#Python Based Even-odd-counter:
 #list,input and split nums
 nums = list(map(int,input("enter numbers:").split()))
 #setting even and odd to 0
