@@ -57,19 +57,13 @@ Odd: 3
 
 ### ▶️ How to Run:
 
-Make sure Python is installed on your system
-Clone the repository or download the file
-Run the program:
+- Make sure Python is installed on your system
+- Clone the repository or download the file
+- Run the program:
 ```bash
 python even_odd_counter.py
 
-------
-
-
-
-
-
-
+---
 
 ##🙋‍♀️ Author:
 Nikita Jadhav
